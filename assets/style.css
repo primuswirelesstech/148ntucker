@@ -408,7 +408,7 @@ a.image{
     background-color: #0284d0;
 }
 .bg-red {
-    background-color: #ff0000;
+    background-color: #4a0707;
 }
 
 .bg-green {
@@ -3133,7 +3133,7 @@ ul.rounded li::before {
 
 
 .slider-area{
-    background-image: url("../img/slider.jpg");
+    background-image: url("../assets/img/slider.jpg");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
